@@ -1,3 +1,15 @@
+💫 Hi 👋, I'm Prashant Bhardwaj
+A passionate Cloud Engineer || DevOps Engineer 
+
+Email Me 👉 ✉️ Bhardwaj01b@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: Learn From Life
+🌱 I’m currently learning: BlockChain
+👯 I’m looking to collaborate on:Learn From Life
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: Bhardwaj01b@gmail.com
+😄 Pronouns: Prashant Sir
+⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant1b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Bhardwaj01b@gmail.com) 
