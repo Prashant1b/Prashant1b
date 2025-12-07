@@ -1,7 +1,7 @@
 💫 Hi 👋, I'm Prashant Bhardwaj
 
 
-A passionate Cloud Engineer || DevOps Engineer 
+A passionate Software Engineer 
 
 Email Me 👉 ✉️ Bhardwaj01b@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,6 @@ Email Me 👉 ✉️ Bhardwaj01b@gmail.com For Collaboration/Project or Anything
 👯 I’m looking to collaborate on:Learn From Life
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: Bhardwaj01b@gmail.com
-😄 Pronouns: Prashant Sir
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
