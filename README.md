@@ -9,7 +9,7 @@ Email Me 👉 ✉️ Bhardwaj01b@gmail.com For Collaboration/Project or Anything
 🌱 I’m currently learning: BlockChain
 👯 I’m looking to collaborate on:Learn From Life
 💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: Bhardwaj01b@gmail.com
+📫 How to reach me: Bhardwaj01b@gmail.com 
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
