@@ -5,9 +5,9 @@ A passionate Software Engineer
 
 Email Me 👉 ✉️ Bhardwaj01b@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Learn From Life
-🌱 I’m currently learning: BlockChain
-👯 I’m looking to collaborate on:Learn From Life
+🔭 I’m currently working on: A Coding Platform
+🌱 I’m currently learning: Mern Stack
+👯 I’m looking to collaborate on:A Coding Platform
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: Bhardwaj01b@gmail.com 
 ⚡ Fun fact: I Love Tech and Tech Love Me
